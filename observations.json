@@ -1,0 +1,56 @@
+{
+    "crim": {
+        "title": "CRIM - per capita crime rate by town vs MEDV - Median value of owner-occupied homes in $1000's",
+        "obs": "The graph is about `CRIM - per capita crime rate by town vs MEDV - Median value of owner-occupied homes in $1000's` \n From the above graph, we can see that \n As the crime rate increases, the price of the house decreases as shown in the ``{}``."
+    },
+
+    "indus": {
+        "title": "INDUS - proportion of non-retail business acres per town - Median value of owner-occupied homes in $1000's",
+        "obs": "The graph is about `INDUS - proportion of non-retail business acres per town - Median value of owner-occupied homes in $1000's` \n From the above graph, we can see that \n As the indus proportion increases, the price of the house decreases as shown in the ``{}``."
+    },
+
+    "nox": {
+        "title": "NOX - nitric oxides concentration vs MEDV - Median value of owner-occupied homes in $1000's",
+        "obs": "The graph is about `NOX - nitric oxides concentration vs MEDV - Median value of owner-occupied homes in $1000's` \n From the above graph, we can see that \n As the nitrogen oxide concentration increases, the price of the house decreases as shown in the ``{}``."
+    },
+
+    "rm": {
+        "title": "RM - average number of rooms per dwelling vs MEDV - Median value of owner-occupied homes in $1000's",
+        "obs": "The graph is about `RM - average number of rooms per dwelling vs MEDV - Median value of owner-occupied homes in $1000's` \n From the above graph, we can see that \n As the average number of rooms per dwelling increases, the price of the house increases `linearly` as shown in the ``{}``."
+    },
+
+    "age": {
+        "title": "AGE - proportion of owner-occupied units built prior to 1940 vs MEDV - Median value of owner-occupied homes in $1000's",
+        "obs": "The graph is about `AGE - proportion of owner-occupied units built prior to 1940 vs MEDV - Median value of owner-occupied homes in $1000's` \n From the above graph, we can see that \n As the age of the house increases, the price of the house seems to be decreasing as shown in the ``{}``."
+    },
+
+    "dis": {
+        "title": "DIS - weighted distances to five Boston employment centers vs MEDV - Median value of owner-occupied homes in $1000's",
+        "obs": "The graph is about `DIS - weighted distances to five Boston employment centers vs MEDV - Median value of owner-occupied homes in $1000's` \n From the above graph, we can see that \n As the distance from the house increases, the price of the house tends to remain constant manner but decreases as shown in the ``{}``."
+    },
+
+    "rad": {
+        "title": "RAD - index of accessibility to radial highways vs MEDV - Median value of owner-occupied homes in $1000's",
+        "obs": "The graph is about `RAD - index of accessibility to radial highways vs MEDV - Median value of owner-occupied homes in $1000's` \n From the above graph, we can see that \n As the radial highway increases, the price of the houses are constant as shown in the ``{}``."
+    },
+
+    "tax": {
+        "title": "TAX - full-value property-tax rate per $10,000 vs MEDV - Median value of owner-occupied homes in $1000's",
+        "obs": "The graph is about `TAX - full-value property-tax rate per $10,000 vs MEDV - Median value of owner-occupied homes in $1000's` \n From the above graph, we can see that \n As the tax rate increases, the price of the house decreases as shown in the ``{}``."
+    },
+
+    "ptratio": {
+        "title": "PTRATIO - pupil-teacher ratio by town vs MEDV - Median value of owner-occupied homes in $1000's",
+        "obs": "The graph is about `PTRATIO - pupil-teacher ratio by town vs MEDV - Median value of owner-occupied homes in $1000's` \n From the above graph, we can see that \n As the pupil ratio increases, the price of the house decreases as shown in the ``{}``."
+    },
+
+    "black": {
+        "title": "Blacks by town vs MEDV - Median value of owner-occupied homes in $1000's",
+        "obs": "The graph is about `Blacks by town vs MEDV - Median value of owner-occupied homes in $1000's` \n From the above graph, we can see that \n As the blacks in town increases, the price of the house increases as shown in the ``{}``."
+    },
+
+    "lstat": {
+        "title": "LSTAT - % lower status of the population vs MEDV - Median value of owner-occupied homes in $1000's",
+        "obs": "The graph is about `LSTAT - % lower status of the population vs MEDV - Median value of owner-occupied homes in $1000's` \n From the above graph, we can see that \n As the lower status increases, the price of the house decreases `linearly` as shown in the ``{}``."
+    }
+}
