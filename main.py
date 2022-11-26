@@ -5,7 +5,7 @@ import os
 import warnings 
 warnings.filterwarnings('ignore')
 
-filepath = "\\Boston_"
+filepath = "/Boston_"
 
 
 @st.cache()
